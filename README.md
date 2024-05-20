@@ -24,11 +24,11 @@ Will update this repo with code changes as often as I can
 ## ❌ UNFINISHED
 - BG ART
 
-    _SOLID COLOR RN
+    _ SOLID COLOR RN
 
 - OBSTACLES ART
 
-    _NEED TO RECOLOR THE CURRENT TILESETS
+    _ NEED TO RECOLOR THE CURRENT TILESETS
 
 UI
 
