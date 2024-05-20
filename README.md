@@ -17,15 +17,13 @@ Will update this repo with code changes as often as I can
 
 # TODO
 
-##❌ UNFINISHED
+## ❌ UNFINISHED
   BG ART
   
     > SOLID COLOR RN
-    
   OBSTACLES ART
   
     > NEED TO RECOLOR THE CURRENT TILESETS
-    
   UI
   
   FREE ROAM MODE 
@@ -33,7 +31,6 @@ Will update this repo with code changes as often as I can
   DIALOG SYSTEM
   
     > 2 WAY DIALOG
-    
   RANDOM ENCOUNTERS
   
   undecided(POSSIBLE STORY MODE)
@@ -43,7 +40,7 @@ Will update this repo with code changes as often as I can
   MUSIC TRACKS
   
 
-##✅ FINISHED
+## ✅ FINISHED
 
   SOME ART
   
@@ -54,9 +51,7 @@ Will update this repo with code changes as often as I can
   DIALOG SYSTEM
   
     > 2 WAY DIALOG
-    
     > CUSTOMIZABLE DIALOG PORTRAIT
-    
   CONNECT TILED FOR MAKING TILEMAPS
   
   LEVEL SELECT
@@ -66,9 +61,7 @@ Will update this repo with code changes as often as I can
   NEW ROCKET SPRITE
   
     > ROCKET PART CUSTOMIZATION
-    
     > ROCKET ROTATION THING
-    
     > DETECTS BUT NOT ANYTHING AFTER THAT
     
 
