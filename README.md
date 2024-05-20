@@ -24,7 +24,7 @@ Will update this repo with code changes as often as I can
 ## ❌ UNFINISHED
 - BG ART
 
-  _ SOLID COLOR RN
+- - SOLID COLOR RN
 
 - OBSTACLES ART
 
