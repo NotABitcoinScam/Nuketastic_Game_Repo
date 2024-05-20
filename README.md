@@ -13,3 +13,9 @@ Did the vending machine eat your money and not give you your snack? DON'T EXPLOD
 Will update this repo with code changes as often as I can
 
 =D
+
+### Credits:
+
+> melissatitanium1111
+
+> notabitcoinscam_09433
