@@ -1,6 +1,6 @@
-
+# INTRO
 ## Welcome to
-# NUKETASTIC
+## NUKETASTIC
 (name wip...)
 
 This is a wip game where you play as some kind of nuclear missile but the catch is that you have major anger management issues...
@@ -14,7 +14,39 @@ Will update this repo with code changes as often as I can
 
 =D
 
-### Credits:
+
+# TODO
+
+##❌ UNFINISHED
+  BG ART
+    > SOLID COLOR RN
+  OBSTACLES ART
+    > NEED TO RECOLOR THE CURRENT TILESETS
+  UI
+  FREE ROAM MODE 
+  DIALOG SYSTEM
+    > 2 WAY DIALOG
+  RANDOM ENCOUNTERS
+  undecided(POSSIBLE STORY MODE)
+  AUDIO FX
+  MUSIC TRACKS
+
+##✅ FINISHED
+  SOME ART
+  RAGE/ANGER METER
+  BETTER PARTICLES
+  DIALOG SYSTEM
+    > 2 WAY DIALOG
+    > CUSTOMIZABLE DIALOG PORTRAIT
+  CONNECT TILED FOR MAKING TILEMAPS
+  LEVEL SELECT
+  WIN LEVEL SYSTEM
+  NEW ROCKET SPRITE
+    > ROCKET PART CUSTOMIZATION
+    > ROCKET ROTATION THING
+    > DETECTS BUT NOT ANYTHING AFTER THAT
+
+# Credits:
 
 > melissatitanium1111
 
