@@ -22,13 +22,13 @@ Will update this repo with code changes as often as I can
 # TODO
 
 ## ❌ UNFINISHED
-BG ART
+- BG ART
 
-> SOLID COLOR RN
+    _SOLID COLOR RN
 
-OBSTACLES ART
+- OBSTACLES ART
 
-> NEED TO RECOLOR THE CURRENT TILESETS
+    _NEED TO RECOLOR THE CURRENT TILESETS
 
 UI
 
