@@ -24,11 +24,11 @@ Will update this repo with code changes as often as I can
 ## ❌ UNFINISHED
 - BG ART
 
-- - SOLID COLOR RN
+  - SOLID COLOR RN
 
 - OBSTACLES ART
 
-  _ NEED TO RECOLOR THE CURRENT TILESETS
+  - NEED TO RECOLOR THE CURRENT TILESETS
 
 - UI
 
@@ -36,7 +36,7 @@ Will update this repo with code changes as often as I can
 
 - DIALOG SYSTEM
 
-  _ 2 WAY DIALOG
+  - 2 WAY DIALOG
 
 - RANDOM ENCOUNTERS
 
@@ -57,9 +57,9 @@ Will update this repo with code changes as often as I can
 
 - DIALOG SYSTEM
 
-  _ 2 WAY DIALOG
+  - 2 WAY DIALOG
 
-  _ CUSTOMIZABLE DIALOG PORTRAIT
+  - CUSTOMIZABLE DIALOG PORTRAIT
 
 - CONNECT TILED FOR MAKING TILEMAPS
 
@@ -68,9 +68,9 @@ Will update this repo with code changes as often as I can
 - WIN LEVEL SYSTEM
 
 - NEW ROCKET SPRITE
-  _ ROCKET PART CUSTOMIZATION
-  _ ROCKET ROTATION THING
-  _ DETECTS BUT NOT ANYTHING AFTER THAT
+  - ROCKET PART CUSTOMIZATION
+  - ROCKET ROTATION THING
+  - DETECTS BUT NOT ANYTHING AFTER THAT
     
 
 
